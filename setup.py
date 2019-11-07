@@ -18,8 +18,8 @@ setuptools.setup(
             'alembic>=0.8.3, <0.9',
             'croniter>=0.3.8, <0.4',
             'dill>=0.2.2, <0.3',
-            'flask>=0.11, <0.12',
-            'flask-admin==1.4.1',
+            'flask>=1.0.0',
+            'flask-admin==1.5.2',
             'flask-babelex==0.9.3',
             'flask-cache>=0.13.1, <0.14',
             'flask-login==0.2.11',
@@ -28,8 +28,8 @@ setuptools.setup(
             'funcsigs==1.0.0',
             'future>=0.15.0, <0.16',
             'gitpython>=2.0.2',
-            'gunicorn>=19.3.0, <19.4.0',  # 19.4.? seemed to have issues
-            'jinja2>=2.7.3, <2.9.0',
+            'gunicorn>=19.5.0',  # 19.4.? seemed to have issues
+            'jinja2>=2.10.1,
             'lxml>=3.6.0, <4.0',
             'markdown>=2.5.2, <3.0',
             'pandas>=0.17.1, <1.0.0',
