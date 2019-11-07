@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: example-pkg-your-username
+Version: 0.0.1
+Summary: Sort description
+Home-page: UNKNOWN
+Author: Example Author
+Author-email: author@example.com
+License: UNKNOWN
+Description: Full description
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
